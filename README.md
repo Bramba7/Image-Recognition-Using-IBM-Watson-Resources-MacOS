@@ -1,4 +1,4 @@
-# image-recognition-using-IBM-Watson-MacOS
+# Image-recognition-using-IBM-Watson-MacOS
 
 ### Before you begin
 * You need an [IBM Cloud](https://cloud.ibm.com/registration?target=/developer/watson&cm_sp=WatsonPlatform-WatsonServices-_-OnPageNavLink-IBMWatson_SDKs-_-Python "IBM Cloud website") account.
