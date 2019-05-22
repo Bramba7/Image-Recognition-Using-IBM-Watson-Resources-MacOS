@@ -1,28 +1,28 @@
 # image-recognition-using-IBM-Watson-MacOS
 
-## Before you begin
+### Before you begin
 * You need an [IBM Cloud][ibm-cloud-onboarding] account.
 
-## Installation
+### Installation
 To install, use `pip`
 
-Watson
+* Watson
 ```bash
 pip3 install --upgrade watson-developer-cloud
 ```
-Json
+* Json
 ```bash
 pip3 install jsonlib-python3
 ```
-gTTS
+* gTTS
 ```bash
 pip3 install gTTS
 ```
-OpenCV
+* OpenCV
 ```bash
 pip3 install opencv-python
 ```
-Abspath
+* Abspath
 ```bash
 pip3 install abspath
 ```
