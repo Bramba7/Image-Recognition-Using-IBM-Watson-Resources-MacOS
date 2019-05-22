@@ -26,7 +26,10 @@ pip3 install opencv-python
 ```bash
 pip3 install abspath
 ```
-
+ Numpy
+```bash
+pip3 install numpy
+```
 ### IAM
 
 IBM Cloud has migrated to token-based Identity and Access Management (IAM) authentication. IAM authentication uses a service API key to get an access token that is passed with the call. Access tokens are valid for approximately one hour and must be regenerated.
