@@ -4,25 +4,25 @@
 * You need an [IBM Cloud](https://cloud.ibm.com/registration?target=/developer/watson&cm_sp=WatsonPlatform-WatsonServices-_-OnPageNavLink-IBMWatson_SDKs-_-Python "IBM Cloud website") account.
 
 ### Installation
-To install, use `pip`
+* To install, use `pip`
 
-* Watson
+ Watson
 ```bash
 pip3 install --upgrade watson-developer-cloud
 ```
-* Json
+ Json
 ```bash
 pip3 install jsonlib-python3
 ```
-* gTTS
+ gTTS
 ```bash
 pip3 install gTTS
 ```
-* OpenCV
+ OpenCV
 ```bash
 pip3 install opencv-python
 ```
-* Abspath
+ Abspath
 ```bash
 pip3 install abspath
 ```
