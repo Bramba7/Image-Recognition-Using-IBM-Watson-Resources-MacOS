@@ -7,7 +7,7 @@ import cv2
 import json
 from watson_developer_cloud import VisualRecognitionV3
 
-visual_recognition = VisualRecognitionV3('2018-03-19', iam_apikey='Xf4ywMeovLfz4vrD4COcHUiawzwBml_czpqLH3SdUJcC')
+visual_recognition = VisualRecognitionV3('2018-03-19', iam_apikey='###YOUR IAMPIKEY CODE###')
 
 
 def recogImg(img):
